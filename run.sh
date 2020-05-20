@@ -1,0 +1,1 @@
+java -javaagent:src/main/resources/sizeofag-1.0.4.jar -Djava.library.path=src/main/resources/DERules-GPU -jar target/DERules-1.0-jar-with-dependencies.jar "EvaluateInterleavedChunks -s (generators.AgrawalGenerator -f 1) -l (moa.classifiers.evolutionary.DERules) -i 1000 -f 1000 -c 1000"
