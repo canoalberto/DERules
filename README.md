@@ -6,6 +6,6 @@ High-speed data streams are potentially infinite sequences of rapidly arriving i
 
 https://ieeexplore.ieee.org/document/8477961
 
-# Citing Kappa Updated Ensemble
+# Citing DERules
 
 > A. Cano and B. Krawczyk. Learning classification rules with differential evolution for high-speed data stream mining on GPUs. In IEEE Congress on Evolutionary Computation, 197-204, 2018.
