@@ -68,7 +68,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>moa.gui.GUI</mainClass>
+							<mainClass>moa.DoTask</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
